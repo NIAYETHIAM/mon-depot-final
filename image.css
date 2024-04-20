@@ -1,0 +1,36 @@
+header{
+    display: block;
+    margin-left: 15px;
+    margin-right: 100px;
+    background-color: brown;
+}
+img{
+    display: block;
+    width: 200px;
+    height: 200px;
+    padding-left: 0px;
+    padding-right: 200px;
+}
+figure{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-left : 40%;
+    padding-right: 50%;
+}
+address{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: blueviolet;
+}
+footer{
+    display: block;
+    margin-left: 90px;
+}
+#flex-col{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}

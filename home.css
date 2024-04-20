@@ -1,0 +1,20 @@
+section{
+    display: block;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+div{
+    background-color: brown;
+    display: block;
+    margin-right: 00px;
+    margin-left: 13px;
+    margin-bottom: 00px;
+}
+main{
+    display: flex;
+    flex-direction:row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
